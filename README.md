@@ -1,4 +1,3 @@
-# fMRI_processing
-fMRI processing for master's @ BNU
-This folder contains all fMRI data processing using SPM.
-ALL codes are avalible for academic use.
+# Simon Yuan's Storage
+These codes are mainly used for fMRI processing for my master's study @ BNU
+ALL codes are free to share and are avalible for academic use only.
